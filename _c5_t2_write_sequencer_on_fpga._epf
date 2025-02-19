@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom struct
+DEFAULT_FILE atom c5_t2_write_sequencer_on_fpga/struct.bd
